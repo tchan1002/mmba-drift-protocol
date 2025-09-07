@@ -2,7 +2,9 @@
 
 This repo contains three prompts you can paste into ChatGPT. 
 
-These frameworks have helped me move towards long term goals and is grounded in the belief that our body and mind is one biological system to manage, one with limited bandwidth for focus and action. It traces a lineage from GROW, WOOP, and Stoic Triads.
+These frameworks are grounded in the belief that our body and mind is one biological system to manage, one with limited bandwidth for focus and action.
+
+The aim is to offload neural load so you can keep moving forwards.
 
 ---
 
