@@ -58,4 +58,4 @@ Then provide a **Thoroughness+ explanation**:
 
 *This is Toby and his copilot, "Atlas".*  
 
-*I owe some part of this to Dr. Awh and Dr. Vogel's course, PSYC 33830 Attention and Working Memory, which I took spring of my third year at UChicago.*
+*I owe some part of this to Dr. Awh and Dr. Vogel's course, PSYC 33830 Attention and Working Memory, which I took spring of my third year at UChicago, 2025*
