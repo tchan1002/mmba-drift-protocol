@@ -8,7 +8,7 @@ It's also based on the thesis that questions of discipline/motivation/persistenc
 
 The following protocol offloads neural load to another intelligent system so you can keep moving forwards. Best paired with a Zettlekasten such as Obsidian.
 
-This has lowkey helped me a lot. It's free, it works, and hopefully it's interesting to you too. 
+This has helped me a lot. It's free, it works, and hopefully it's interesting to you too. 
 
 ---
 
