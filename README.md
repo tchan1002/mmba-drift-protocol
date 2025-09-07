@@ -2,7 +2,7 @@
 
 This repo contains three prompts you can paste into ChatGPT or any AI agent.
 
-The MMBA + Drift protocol is grounded in the belief that our body and mind is one biological system to manage, one with limited bandwidth for focus and action.
+The MMBA + Drift protocol is grounded in the belief that our body and mind is one biological system to manage, one with limited bandwidth for focus and action. It's also based on the thesis that discipline/motivation/persistence comes down to an emotional-management problem.
 
 I'm putting this out here because I've struggled with productivity for a long time. I want pretty badly to create a life of my own design, hopefully this helps you do that too.
 
