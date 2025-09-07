@@ -2,7 +2,7 @@
 
 This repo contains three prompts you can paste into ChatGPT. 
 
-These frameworks are grounded in the belief that our body and mind is one biological system to manage, one with limited bandwidth for focus and action.
+These MMBA + Drift protocol is grounded in the belief that our body and mind is one biological system to manage, one with limited bandwidth for focus and action.
 
 The aim is to offload neural load so you can keep moving forwards.
 
@@ -57,3 +57,5 @@ Then provide a **Thoroughness+ explanation**:
 ---
 
 *This is Toby and his copilot, "Atlas".*  
+
+Credits to Dr. Awh and Dr. Vogel's course, PSYC 33830 Attention and Working Memory, which I took spring of my third year at UChicago.
