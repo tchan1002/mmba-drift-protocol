@@ -10,8 +10,6 @@ The following protocol offloads neural load to another intelligent system so you
 
 This has lowkey helped me a lot. It's free, it works, and hopefully it's interesting to you too. 
 
-Prompts 2 and 3 are about learning to build webapps.
-
 ---
 
 ## 1. Journals & Life Goals → MMBA + Drift
@@ -67,3 +65,7 @@ Then provide a **Thoroughness+ explanation**:
 *I owe some good part of this to Dr. Awh and Dr. Vogel's course, PSYC 33830 Attention and Working Memory, which I took spring of my third year at UChicago, 2025*
 
 *I also owe the web-dev flow to Raghu Betina's course BUSN 20550 Application Development, which is the only webdev course that ever stuck with me because it teaches you learn-by-doing.*
+
+---
+
+For more of this: [https://substack.com/@tchan0](url)
