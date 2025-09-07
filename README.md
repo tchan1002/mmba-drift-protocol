@@ -4,7 +4,7 @@ This repo contains three prompts you can paste into ChatGPT.
 
 The MMBA + Drift protocol is grounded in the belief that our body and mind is one biological system to manage, one with limited bandwidth for focus and action.
 
-The aim is to offload neural load so you can keep moving forwards. 
+The aim is to offload neural load to another intelligent system so you can keep moving forwards. 
 
 ---
 
