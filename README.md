@@ -8,8 +8,6 @@ It's also based on the thesis that questions of discipline/motivation/persistenc
 
 The following protocol offloads neural load to another intelligent system so you can keep moving forwards. It's best paired with a Zettlekasten such as Obsidian.
 
-I'm putting this out here because I've struggled for a long time with moving consistently towards a life of my own design. Hopefully this helps someone out there too.
-
 ---
 
 ## 1. Journals & Life Goals → MMBA + Drift
