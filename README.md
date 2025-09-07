@@ -6,7 +6,7 @@ The MMBA + Drift protocol is grounded in the belief that our body and mind is on
 
 It's also based on the thesis that questions of discipline/motivation/persistence comes down to an emotional-management problem.
 
-The following protocol offloads neural load to another intelligent system so you can keep moving forwards. It's best paired with a Zettlekasten such as Obsidian.
+The following protocol offloads neural load to another intelligent system so you can keep moving forwards. Best paired with a Zettlekasten such as Obsidian.
 
 ---
 
