@@ -68,4 +68,4 @@ Then provide a **Thoroughness+ explanation**:
 
 ---
 
-For more of this: [https://substack.com/@tchan0](url)
+For more of this: [my substack](https://substack.com/@tchan0)
