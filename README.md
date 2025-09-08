@@ -2,11 +2,11 @@
 
 This repo contains three prompts you can paste into ChatGPT or any AI agent you use consistently.
 
-The MMBA + Drift protocol is grounded in the belief that our body and mind is one biological system to manage, one with limited bandwidth for focus and action. 
+The MMBA + Drift protocol is grounded in the belief that our body and mind is a biological system we can manage, one with limited bandwidth for focus and action. 
 
-It's also based on the idea that questions of discipline/motivation/persistence comes down to an emotional-management problem.
+It's also based on the idea that questions of discipline/motivation/persistence come down to an emotional-management problem.
 
-The following protocol offloads neural load to another intelligent system so you can keep moving forwards. Best paired with a Zettlekasten such as Obsidian.
+The following protocol offloads neural load to another intelligent system so you can keep moving forwards. Its best paired with a Zettlekasten note-takinng system such as Obsidian.
 
 This has helped me a lot as someone who usually struggles a lot with this stuff. It's free, it works, and hopefully it's interesting to you too. 
 
