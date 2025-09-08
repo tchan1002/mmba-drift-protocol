@@ -60,7 +60,7 @@ Then provide a **Thoroughness+ explanation**:
 
 ---
 
-*This is Toby and his copilot, "Atlas".*  
+*This is Toby and his copilot.*  
 
 *I owe some good part of this to Dr. Awh and Dr. Vogel's course, PSYC 33830 Attention and Working Memory, which I took spring of my third year at UChicago, 2025*
 
