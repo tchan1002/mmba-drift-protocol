@@ -1,6 +1,6 @@
 # Protocol Card 🧭
 
-This repo contains three prompts you can paste into ChatGPT or any AI agent you use consistently.
+Here are three prompts you can paste into ChatGPT or any AI agent you use consistently.
 
 The MMBA + Drift protocol is grounded in the belief that our body and mind is a biological system we can manage, one with limited bandwidth for focus and action. 
 
