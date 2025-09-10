@@ -60,8 +60,6 @@ Then provide a **Thoroughness+ explanation**:
 
 ---
 
-*This is Toby and his copilot.*  
-
 *I owe some good part of this to Dr. Awh and Dr. Vogel's course, PSYC 33830 Attention and Working Memory, which I took spring of my third year at UChicago, 2025*
 
 *I also owe the webdev flow to Raghu Betina's course BUSN 20550 Application Development, which is the only webdev course that ever stuck with me because it teaches you learn-by-doing.*
