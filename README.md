@@ -1,8 +1,10 @@
-# Hi there
+# Hi there ✋
 
-I've struggled for the longest time with my productivity. One day, I realized I wasn't building a life that I wanted to live, and that I had to make some changes
+I've struggled for the longest time with building a life I wanted to live.
 
-I found surprising gains in talking to ChatGPT as a conversation partner.
+It turns out that our brains are great at long term envisioning but bad with short term execution.
+
+I found that talking to ChatGPT daily has gotten me farther than I've ever gone.
 
 Here are three system prompts that have made all the difference for me:
 
