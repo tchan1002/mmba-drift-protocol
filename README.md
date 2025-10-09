@@ -59,6 +59,7 @@ Then provide a **Thoroughness+ explanation**:
 - **Be thorough** → especially for new concepts/technologies.  
 
 ---
+I want to thank some people for the ideas that underlie these prompts.
 
 *I owe some good part of this to Dr. Awh and Dr. Vogel's course, PSYC 33830 Attention and Working Memory, which I took spring of my third year at UChicago, 2025*
 
