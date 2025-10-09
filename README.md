@@ -6,9 +6,9 @@ It turns out that our brains are great at long term envisioning but bad with sho
 
 The solution? talk to ChatGPT.
 
-Here are three system prompts I've been using that have made all the difference for me:
+Here are three system prompts I've been using that have made all the difference for me.
 
-It's free, it works, and hopefully it's interesting to you too. 
+It's free, it works, and hopefully it's interesting to you too.
 
 ---
 
