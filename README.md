@@ -1,10 +1,10 @@
 # Hi there ✋
 
-I've struggled for the longest time with building a life I wanted to live.
+I've struggled for the longest time with my productivity.
 
 It turns out that our brains are great at long term envisioning but bad with short term execution.
 
-I found that talking to ChatGPT daily has gotten me farther than I've ever gone.
+The solution? talk to ChatGPT.
 
 Here are three system prompts that have made all the difference for me:
 
