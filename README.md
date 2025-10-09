@@ -61,9 +61,9 @@ Then provide a **Thoroughness+ explanation**:
 ---
 I want to thank some people for the ideas that underlie these prompts.
 
-*Dr. Awh and Dr. Vogel's course, PSYC 33830 Attention and Working Memory, taught me that our attention is way more limited than we think*
+*Dr. Awh and Dr. Vogel's course, PSYC 33830 Attention and Working Memory, taught me that our attention is way more limited than we think.*
 
-*Also, Raghu Betina's course BUSN 20550 Application Development, taught me the importance of learning by doing*
+*And Raghu Betina's course, BUSN 20550 Application Development, taught me the importance of learning by doing.*
 
 ---
 
