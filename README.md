@@ -6,14 +6,8 @@ It turns out that our brains are great at long term envisioning but bad with sho
 
 The solution? talk to ChatGPT.
 
-Here are three system prompts that have made all the difference for me:
+Here are three system prompts I've been using that have made all the difference for me:
 
-ChatGPT calls it the MMBA + Drift protocol, but here are the first principles these prompts are based on.
-
-- Our body and mind is a biological system we can manage, one with limited bandwidth for focus and action. 
-- Questions of discipline/motivation/persistence come down to an emotional-management problem.
-
-The basic idea is to offload your thoughts to an intelligent system so you can keep going.
 It's free, it works, and hopefully it's interesting to you too. 
 
 ---
